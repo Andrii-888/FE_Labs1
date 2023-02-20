@@ -1,0 +1,51 @@
+h1 {
+    text-align: center;
+    color: darkblue;
+    }
+
+#block1 {
+background-color: gray;
+margin: auto;
+
+}
+
+
+#block2 {
+
+    background-color: chocolate;
+    margin: auto;
+}
+
+#block3 {
+
+    margin: auto;
+    background-color: darkturquoise;
+}
+
+img{
+
+width: 900px;
+height: 600px;
+border-radius: 8px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+h2{
+
+    text-align: left;
+    color: azure;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
